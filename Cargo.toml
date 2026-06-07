@@ -5,8 +5,8 @@ edition = "2021"
 license = "Apache-2.0"
 repository = "https://github.com/Sentinels-Today/sentinel-firmware"
 homepage = "https://sentinels.today"
-authors = ["Sentinel Labs <admin@sentinels.today>"]
-description = "Reference TPM 2.0 measured-boot data model and quote verification for Sentinel Labs."
+authors = ["Sentinels <admin@sentinels.today>"]
+description = "Reference TPM 2.0 measured-boot data model and quote verification for Sentinels."
 rust-version = "1.75"
 readme = "README.md"
 

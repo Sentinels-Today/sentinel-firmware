@@ -1,5 +1,5 @@
 //! `sentinel-firmware` — reference TPM 2.0 measured-boot data model and quote
-//! verification for Sentinel Labs.
+//! verification for Sentinels.
 //!
 //! The crate is `no_std`-friendly (enable the default `std` feature for the
 //! host build / tests). Real TPM hardware integration lives behind the
